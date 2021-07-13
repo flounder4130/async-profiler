@@ -37,6 +37,7 @@ For more information refer to [IntelliJ IDEA documentation](https://www.jetbrain
 
 ## Supported platforms
 
+ - **Windows** / x64 / <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" width="16"/> [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/) 2021.2 and later
  - **Linux** / x64 / x86 / ARM / AArch64
  - **macOS** / x64
 
